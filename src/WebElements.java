@@ -160,10 +160,10 @@ public class WebElements {
 	
 	
 
-	/*@AfterTest
+	@AfterTest
 	public void teardown() {
 		driver.quit();
 
-	}*/
+	}
 
 }
