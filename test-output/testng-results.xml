@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73365" started-at="2018-10-29T22:37:38Z" finished-at="2018-10-29T22:38:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73365" started-at="2018-10-29T22:37:38Z" finished-at="2018-10-29T22:38:51Z">
+      <class name="frame">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:frame@687080dc]" name="invokeBrowser" is-config="true" duration-ms="49205" started-at="2018-10-29T22:37:38Z" finished-at="2018-10-29T22:38:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="actionsClass()[pri:0, instance:frame@687080dc]" name="actionsClass" duration-ms="818" started-at="2018-10-29T22:38:27Z" finished-at="2018-10-29T22:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actionsClass -->
+        <test-method status="PASS" signature="frame()[pri:0, instance:frame@687080dc]" name="frame" duration-ms="23311" started-at="2018-10-29T22:38:28Z" finished-at="2018-10-29T22:38:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frame -->
+      </class> <!-- frame -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
